@@ -1,4 +1,4 @@
-# Fixed Partion of a Physical Memory Simulation
+# SO - Sem Interface
 Assignment given by Professor @marciopiva
 
 Develope an application which is capable of creating virtual processes randomly (200 processes). Theses processes should have atributes to be execute. example: Processes Size, RunTime (CPU time).
