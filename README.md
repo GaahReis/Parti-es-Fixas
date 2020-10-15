@@ -8,4 +8,4 @@ Orientador: Prof. Marcio Luiz Piva
 
 Integrantes:
 
-Amanda Valado, Bruna Lopes, Gabriel Reis, Luciana Lorrany, Marcel Losso
+Amanda Valado, Bruna Lopes, Gabriel Reis, Luciana Lorrany e Marcel Losso
