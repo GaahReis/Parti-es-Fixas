@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="720.0" maxWidth="1280.0" minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" style="-fx-background-color: #f7d67c;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainController">
+   <children>
+      <Button fx:id="startButton" defaultButton="true" layoutX="576.0" layoutY="637.0" mnemonicParsing="false" onMouseClicked="#startOperation" style="-fx-background-color: #70a6e0; -fx-border-width: 0;" text="COMEÇAR" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Manjari Regular" size="29.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="OPEN_HAND" />
+         </cursor>
+         <padding>
+            <Insets bottom="12.0" left="20.0" right="20.0" top="12.0" />
+         </padding>
+      </Button>
+      <Text layoutX="287.0" layoutY="68.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SIMULADOR DE MEMÓRIA">
+         <font>
+            <Font name="Liberation Sans" size="60.0" />
+         </font>
+      </Text>
+      <BorderPane fx:id="borderPane" layoutX="732.0" layoutY="131.0" prefHeight="355.0" prefWidth="496.0" />
+      <BorderPane fx:id="borderPane2" layoutX="37.0" layoutY="140.0" prefHeight="355.0" prefWidth="542.0" />
+      <BorderPane fx:id="borderPane3" layoutX="567.0" layoutY="572.0" prefHeight="54.0" prefWidth="200.0" />
+   </children>
+</AnchorPane>

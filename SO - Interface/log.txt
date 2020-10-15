@@ -1,0 +1,2743 @@
+Executando processo: 1
+Houve fragmentacao interna
+Executando processo: 2
+Pulando para proxima particao
+Diminuindo tempo do processo: 1
+Houve fragmentacao interna
+Executando processo: 3
+Pulando para proxima particao
+Diminuindo tempo do processo: 1
+Pulando para proxima particao
+Diminuindo tempo do processo: 2
+Houve fragmentacao interna
+Executando processo: 4
+Pulando para proxima particao
+Diminuindo tempo do processo: 1
+Pulando para proxima particao
+Diminuindo tempo do processo: 2
+Pulando para proxima particao
+Diminuindo tempo do processo: 3
+Houve fragmentacao interna
+Executando processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 1
+Processo 1 Terminou! 
+Colocando novo processo: 5
+Houve fragmentacao externa
+Executando processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 2
+Pulando para proxima particao
+Diminuindo tempo do processo: 3
+Pulando para proxima particao
+Diminuindo tempo do processo: 4
+Houve fragmentacao interna
+Executando processo: 7
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 2
+Pulando para proxima particao
+Diminuindo tempo do processo: 3
+Pulando para proxima particao
+Diminuindo tempo do processo: 4
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Houve fragmentacao interna
+Executando processo: 8
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 2
+Pulando para proxima particao
+Diminuindo tempo do processo: 3
+Processo 3 Terminou! 
+Colocando novo processo: 8
+Houve fragmentacao externa
+Executando processo: 9
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 2
+Processo 2 Terminou! 
+Colocando novo processo: 9
+Houve fragmentacao externa
+Executando processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 9
+Pulando para proxima particao
+Diminuindo tempo do processo: 8
+Pulando para proxima particao
+Diminuindo tempo do processo: 4
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 7
+Houve fragmentacao interna
+Executando processo: 11
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 9
+Pulando para proxima particao
+Diminuindo tempo do processo: 8
+Pulando para proxima particao
+Diminuindo tempo do processo: 4
+Processo 4 Terminou! 
+Colocando novo processo: 11
+Houve fragmentacao externa
+Executando processo: 12
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Pulando para proxima particao
+Diminuindo tempo do processo: 9
+Pulando para proxima particao
+Diminuindo tempo do processo: 8
+Pulando para proxima particao
+Diminuindo tempo do processo: 11
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 7
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Houve fragmentacao interna
+Executando processo: 13
+Pulando para proxima particao
+Diminuindo tempo do processo: 5
+Processo 5 Terminou! 
+Colocando novo processo: 13
+Houve fragmentacao externa
+Executando processo: 14
+Pulando para proxima particao
+Diminuindo tempo do processo: 13
+Pulando para proxima particao
+Diminuindo tempo do processo: 9
+Processo 9 Terminou! 
+Colocando novo processo: 14
+Houve fragmentacao externa
+Executando processo: 15
+Pulando para proxima particao
+Diminuindo tempo do processo: 13
+Pulando para proxima particao
+Diminuindo tempo do processo: 14
+Pulando para proxima particao
+Diminuindo tempo do processo: 8
+Processo 8 Terminou! 
+Colocando novo processo: 15
+Houve fragmentacao externa
+Executando processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 13
+Pulando para proxima particao
+Diminuindo tempo do processo: 14
+Processo 14 Terminou! 
+Colocando novo processo: 16
+Houve fragmentacao externa
+Executando processo: 17
+Pulando para proxima particao
+Diminuindo tempo do processo: 13
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 15
+Pulando para proxima particao
+Diminuindo tempo do processo: 11
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 7
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Houve fragmentacao interna
+Executando processo: 18
+Pulando para proxima particao
+Diminuindo tempo do processo: 13
+Processo 13 Terminou! 
+Colocando novo processo: 18
+Houve fragmentacao externa
+Executando processo: 19
+Pulando para proxima particao
+Diminuindo tempo do processo: 18
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 15
+Pulando para proxima particao
+Diminuindo tempo do processo: 11
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 7
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Pulando para proxima particao
+Diminuindo tempo do processo: 17
+Processo 17 Terminou! 
+Colocando novo processo: 19
+Houve fragmentacao externa
+Executando processo: 20
+Pulando para proxima particao
+Diminuindo tempo do processo: 18
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 15
+Pulando para proxima particao
+Diminuindo tempo do processo: 11
+Processo 11 Terminou! 
+Colocando novo processo: 20
+Houve fragmentacao externa
+Executando processo: 21
+Pulando para proxima particao
+Diminuindo tempo do processo: 18
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 15
+Pulando para proxima particao
+Diminuindo tempo do processo: 20
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 7
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Pulando para proxima particao
+Diminuindo tempo do processo: 19
+Houve fragmentacao interna
+Executando processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 18
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 15
+Processo 15 Terminou! 
+Colocando novo processo: 22
+Houve fragmentacao externa
+Executando processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 18
+Processo 18 Terminou! 
+Colocando novo processo: 23
+Houve fragmentacao externa
+Executando processo: 24
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 20
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 7
+Processo 7 Terminou! 
+Colocando novo processo: 24
+Houve fragmentacao externa
+Executando processo: 25
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 20
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Pulando para proxima particao
+Diminuindo tempo do processo: 24
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Pulando para proxima particao
+Diminuindo tempo do processo: 19
+Processo 19 Terminou! 
+Colocando novo processo: 25
+Houve fragmentacao externa
+Executando processo: 26
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 16
+Processo 16 Terminou! 
+Colocando novo processo: 26
+Houve fragmentacao externa
+Executando processo: 27
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 26
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 20
+Pulando para proxima particao
+Diminuindo tempo do processo: 6
+Processo 6 Terminou! 
+Colocando novo processo: 27
+Houve fragmentacao externa
+Executando processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 26
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 20
+Processo 20 Terminou! 
+Colocando novo processo: 28
+Houve fragmentacao externa
+Executando processo: 29
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 26
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 27
+Pulando para proxima particao
+Diminuindo tempo do processo: 24
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Pulando para proxima particao
+Diminuindo tempo do processo: 25
+Pulando para proxima particao
+Diminuindo tempo do processo: 21
+Houve uma fragmentacao
+Executando processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 26
+Processo 26 Terminou! 
+Colocando novo processo: 30
+Houve fragmentacao externa
+Executando processo: 31
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 27
+Pulando para proxima particao
+Diminuindo tempo do processo: 24
+Processo 24 Terminou! 
+Colocando novo processo: 31
+Houve fragmentacao externa
+Executando processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 23
+Processo 23 Terminou! 
+Colocando novo processo: 32
+Houve fragmentacao externa
+Executando processo: 33
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 27
+Pulando para proxima particao
+Diminuindo tempo do processo: 31
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Pulando para proxima particao
+Diminuindo tempo do processo: 25
+Processo 25 Terminou! 
+Colocando novo processo: 33
+Houve fragmentacao externa
+Executando processo: 34
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 27
+Processo 27 Terminou! 
+Colocando novo processo: 34
+Houve fragmentacao externa
+Executando processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 34
+Processo 34 Terminou! 
+Colocando novo processo: 35
+Houve fragmentacao externa
+Executando processo: 36
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 22
+Processo 22 Terminou! 
+Colocando novo processo: 36
+Houve fragmentacao externa
+Executando processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 36
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 31
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Pulando para proxima particao
+Diminuindo tempo do processo: 12
+Processo 12 Terminou! 
+Colocando novo processo: 37
+Houve fragmentacao externa
+Executando processo: 38
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Pulando para proxima particao
+Diminuindo tempo do processo: 36
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 31
+Pulando para proxima particao
+Diminuindo tempo do processo: 10
+Processo 10 Terminou! 
+Colocando novo processo: 38
+Houve fragmentacao externa
+Executando processo: 39
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 30
+Processo 30 Terminou! 
+Colocando novo processo: 39
+Houve fragmentacao externa
+Executando processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 39
+Processo 39 Terminou! 
+Colocando novo processo: 40
+Houve fragmentacao externa
+Executando processo: 41
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 36
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 31
+Pulando para proxima particao
+Diminuindo tempo do processo: 38
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 33
+Pulando para proxima particao
+Diminuindo tempo do processo: 21
+Houve uma fragmentacao
+Executando processo: 42
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 36
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 31
+Pulando para proxima particao
+Diminuindo tempo do processo: 38
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 33
+Pulando para proxima particao
+Diminuindo tempo do processo: 21
+Processo 21 Terminou! 
+Colocando novo processo: 42
+Houve fragmentacao externa
+Executando processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 32
+Processo 32 Terminou! 
+Colocando novo processo: 43
+Houve fragmentacao externa
+Executando processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 36
+Processo 36 Terminou! 
+Colocando novo processo: 44
+Houve fragmentacao externa
+Executando processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 28
+Processo 28 Terminou! 
+Colocando novo processo: 45
+Houve fragmentacao externa
+Executando processo: 46
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 31
+Processo 31 Terminou! 
+Colocando novo processo: 46
+Houve fragmentacao externa
+Executando processo: 47
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Pulando para proxima particao
+Diminuindo tempo do processo: 46
+Pulando para proxima particao
+Diminuindo tempo do processo: 38
+Processo 38 Terminou! 
+Colocando novo processo: 47
+Houve fragmentacao externa
+Executando processo: 48
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 35
+Processo 35 Terminou! 
+Colocando novo processo: 48
+Houve fragmentacao externa
+Executando processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 40
+Processo 40 Terminou! 
+Colocando novo processo: 49
+Houve fragmentacao externa
+Executando processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 48
+Pulando para proxima particao
+Diminuindo tempo do processo: 46
+Pulando para proxima particao
+Diminuindo tempo do processo: 47
+Processo 47 Terminou! 
+Colocando novo processo: 50
+Houve fragmentacao externa
+Executando processo: 51
+Pulando para proxima particao
+Diminuindo tempo do processo: 43
+Processo 43 Terminou! 
+Colocando novo processo: 51
+Houve fragmentacao externa
+Executando processo: 52
+Pulando para proxima particao
+Diminuindo tempo do processo: 51
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 48
+Pulando para proxima particao
+Diminuindo tempo do processo: 46
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 33
+Pulando para proxima particao
+Diminuindo tempo do processo: 42
+Processo 42 Terminou! 
+Colocando novo processo: 52
+Houve fragmentacao externa
+Executando processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 51
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 44
+Processo 44 Terminou! 
+Colocando novo processo: 53
+Houve fragmentacao externa
+Executando processo: 54
+Pulando para proxima particao
+Diminuindo tempo do processo: 51
+Processo 51 Terminou! 
+Colocando novo processo: 54
+Houve fragmentacao externa
+Executando processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 54
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 48
+Processo 48 Terminou! 
+Colocando novo processo: 55
+Houve fragmentacao externa
+Executando processo: 56
+Pulando para proxima particao
+Diminuindo tempo do processo: 54
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 46
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 33
+Processo 33 Terminou! 
+Colocando novo processo: 56
+Houve fragmentacao externa
+Executando processo: 57
+Pulando para proxima particao
+Diminuindo tempo do processo: 54
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 46
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 56
+Pulando para proxima particao
+Diminuindo tempo do processo: 52
+Houve uma fragmentacao
+Executando processo: 58
+Pulando para proxima particao
+Diminuindo tempo do processo: 54
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 45
+Processo 45 Terminou! 
+Colocando novo processo: 58
+Houve fragmentacao externa
+Executando processo: 59
+Pulando para proxima particao
+Diminuindo tempo do processo: 54
+Processo 54 Terminou! 
+Colocando novo processo: 59
+Houve fragmentacao externa
+Executando processo: 60
+Pulando para proxima particao
+Diminuindo tempo do processo: 59
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 58
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 46
+Processo 46 Terminou! 
+Colocando novo processo: 60
+Houve fragmentacao externa
+Executando processo: 61
+Pulando para proxima particao
+Diminuindo tempo do processo: 59
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 58
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 60
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 56
+Pulando para proxima particao
+Diminuindo tempo do processo: 52
+Houve uma fragmentacao
+Executando processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 59
+Pulando para proxima particao
+Diminuindo tempo do processo: 49
+Processo 49 Terminou! 
+Colocando novo processo: 62
+Houve fragmentacao externa
+Executando processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 59
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 58
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 60
+Processo 60 Terminou! 
+Colocando novo processo: 63
+Houve fragmentacao externa
+Executando processo: 64
+Pulando para proxima particao
+Diminuindo tempo do processo: 59
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Pulando para proxima particao
+Diminuindo tempo do processo: 58
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Pulando para proxima particao
+Diminuindo tempo do processo: 56
+Pulando para proxima particao
+Diminuindo tempo do processo: 52
+Houve uma fragmentacao
+Executando processo: 65
+Pulando para proxima particao
+Diminuindo tempo do processo: 59
+Processo 59 Terminou! 
+Colocando novo processo: 65
+Houve fragmentacao externa
+Executando processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 65
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 53
+Processo 53 Terminou! 
+Colocando novo processo: 66
+Houve fragmentacao externa
+Executando processo: 67
+Pulando para proxima particao
+Diminuindo tempo do processo: 65
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 58
+Processo 58 Terminou! 
+Colocando novo processo: 67
+Houve fragmentacao externa
+Executando processo: 68
+Pulando para proxima particao
+Diminuindo tempo do processo: 65
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 67
+Processo 67 Terminou! 
+Colocando novo processo: 68
+Houve fragmentacao externa
+Executando processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 65
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 68
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 37
+Processo 37 Terminou! 
+Colocando novo processo: 69
+Houve fragmentacao externa
+Executando processo: 70
+Pulando para proxima particao
+Diminuindo tempo do processo: 65
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 68
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 56
+Pulando para proxima particao
+Diminuindo tempo do processo: 52
+Houve uma fragmentacao
+Executando processo: 71
+Pulando para proxima particao
+Diminuindo tempo do processo: 65
+Processo 65 Terminou! 
+Colocando novo processo: 71
+Houve fragmentacao externa
+Executando processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 71
+Pulando para proxima particao
+Diminuindo tempo do processo: 62
+Processo 62 Terminou! 
+Colocando novo processo: 72
+Houve fragmentacao externa
+Executando processo: 73
+Pulando para proxima particao
+Diminuindo tempo do processo: 71
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 68
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 56
+Pulando para proxima particao
+Diminuindo tempo do processo: 52
+Processo 52 Terminou! 
+Colocando novo processo: 73
+Houve fragmentacao externa
+Executando processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 71
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Pulando para proxima particao
+Diminuindo tempo do processo: 68
+Pulando para proxima particao
+Diminuindo tempo do processo: 55
+Processo 55 Terminou! 
+Colocando novo processo: 74
+Houve fragmentacao externa
+Executando processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 71
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 66
+Processo 66 Terminou! 
+Colocando novo processo: 75
+Houve fragmentacao externa
+Executando processo: 76
+Pulando para proxima particao
+Diminuindo tempo do processo: 71
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 68
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 56
+Processo 56 Terminou! 
+Colocando novo processo: 76
+Houve fragmentacao externa
+Executando processo: 77
+Pulando para proxima particao
+Diminuindo tempo do processo: 71
+Processo 71 Terminou! 
+Colocando novo processo: 77
+Houve fragmentacao externa
+Executando processo: 78
+Pulando para proxima particao
+Diminuindo tempo do processo: 77
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 68
+Processo 68 Terminou! 
+Colocando novo processo: 78
+Houve fragmentacao externa
+Executando processo: 79
+Pulando para proxima particao
+Diminuindo tempo do processo: 77
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 78
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 76
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 77
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 78
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 50
+Processo 50 Terminou! 
+Colocando novo processo: 80
+Houve fragmentacao externa
+Executando processo: 81
+Pulando para proxima particao
+Diminuindo tempo do processo: 77
+Pulando para proxima particao
+Diminuindo tempo do processo: 72
+Processo 72 Terminou! 
+Colocando novo processo: 81
+Houve fragmentacao externa
+Executando processo: 82
+Pulando para proxima particao
+Diminuindo tempo do processo: 77
+Processo 77 Terminou! 
+Colocando novo processo: 82
+Houve fragmentacao externa
+Executando processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 82
+Pulando para proxima particao
+Diminuindo tempo do processo: 81
+Processo 81 Terminou! 
+Colocando novo processo: 83
+Houve fragmentacao externa
+Executando processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 82
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 78
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 76
+Processo 76 Terminou! 
+Colocando novo processo: 84
+Houve fragmentacao externa
+Executando processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 82
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Pulando para proxima particao
+Diminuindo tempo do processo: 78
+Processo 78 Terminou! 
+Colocando novo processo: 85
+Houve fragmentacao externa
+Executando processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 82
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 75
+Processo 75 Terminou! 
+Colocando novo processo: 86
+Houve fragmentacao externa
+Executando processo: 87
+Pulando para proxima particao
+Diminuindo tempo do processo: 82
+Processo 82 Terminou! 
+Colocando novo processo: 87
+Houve fragmentacao externa
+Executando processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 87
+Processo 87 Terminou! 
+Colocando novo processo: 88
+Houve fragmentacao externa
+Executando processo: 89
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 90
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 91
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 63
+Processo 63 Terminou! 
+Colocando novo processo: 91
+Houve fragmentacao externa
+Executando processo: 92
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 91
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 93
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 83
+Processo 83 Terminou! 
+Colocando novo processo: 93
+Houve fragmentacao externa
+Executando processo: 94
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 93
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 91
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 93
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Pulando para proxima particao
+Diminuindo tempo do processo: 91
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 69
+Processo 69 Terminou! 
+Colocando novo processo: 95
+Houve fragmentacao externa
+Executando processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 93
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 74
+Processo 74 Terminou! 
+Colocando novo processo: 96
+Houve fragmentacao externa
+Executando processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Pulando para proxima particao
+Diminuindo tempo do processo: 93
+Pulando para proxima particao
+Diminuindo tempo do processo: 86
+Processo 86 Terminou! 
+Colocando novo processo: 97
+Houve fragmentacao externa
+Executando processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 88
+Processo 88 Terminou! 
+Colocando novo processo: 98
+Houve fragmentacao externa
+Executando processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 93
+Processo 93 Terminou! 
+Colocando novo processo: 99
+Houve fragmentacao externa
+Executando processo: 100
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 91
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 85
+Processo 85 Terminou! 
+Colocando novo processo: 101
+Houve fragmentacao externa
+Executando processo: 102
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 91
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 91
+Processo 91 Terminou! 
+Colocando novo processo: 103
+Houve fragmentacao externa
+Executando processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 80
+Processo 80 Terminou! 
+Colocando novo processo: 104
+Houve fragmentacao externa
+Executando processo: 105
+Pulando para proxima particao
+Diminuindo tempo do processo: 98
+Processo 98 Terminou! 
+Colocando novo processo: 105
+Houve fragmentacao externa
+Executando processo: 106
+Pulando para proxima particao
+Diminuindo tempo do processo: 105
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Houve uma fragmentacao
+Executando processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 105
+Processo 105 Terminou! 
+Colocando novo processo: 107
+Houve fragmentacao externa
+Executando processo: 108
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 73
+Processo 73 Terminou! 
+Colocando novo processo: 108
+Houve fragmentacao externa
+Executando processo: 109
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 108
+Houve uma fragmentacao
+Executando processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 97
+Processo 97 Terminou! 
+Colocando novo processo: 110
+Houve fragmentacao externa
+Executando processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 101
+Processo 101 Terminou! 
+Colocando novo processo: 111
+Houve fragmentacao externa
+Executando processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 99
+Processo 99 Terminou! 
+Colocando novo processo: 112
+Houve fragmentacao externa
+Executando processo: 113
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Pulando para proxima particao
+Diminuindo tempo do processo: 108
+Houve uma fragmentacao
+Executando processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 107
+Processo 107 Terminou! 
+Colocando novo processo: 114
+Houve fragmentacao externa
+Executando processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 84
+Processo 84 Terminou! 
+Colocando novo processo: 115
+Houve fragmentacao externa
+Executando processo: 116
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 108
+Houve uma fragmentacao
+Executando processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 96
+Processo 96 Terminou! 
+Colocando novo processo: 117
+Houve fragmentacao externa
+Executando processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 95
+Processo 95 Terminou! 
+Colocando novo processo: 118
+Houve fragmentacao externa
+Executando processo: 119
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 108
+Processo 108 Terminou! 
+Colocando novo processo: 119
+Houve fragmentacao externa
+Executando processo: 120
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Pulando para proxima particao
+Diminuindo tempo do processo: 104
+Processo 104 Terminou! 
+Colocando novo processo: 120
+Houve fragmentacao externa
+Executando processo: 121
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 103
+Processo 103 Terminou! 
+Colocando novo processo: 121
+Houve fragmentacao externa
+Executando processo: 122
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 121
+Pulando para proxima particao
+Diminuindo tempo do processo: 120
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 119
+Houve uma fragmentacao
+Executando processo: 123
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Pulando para proxima particao
+Diminuindo tempo do processo: 110
+Processo 110 Terminou! 
+Colocando novo processo: 123
+Houve fragmentacao externa
+Executando processo: 124
+Pulando para proxima particao
+Diminuindo tempo do processo: 114
+Processo 114 Terminou! 
+Colocando novo processo: 124
+Houve fragmentacao externa
+Executando processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 124
+Pulando para proxima particao
+Diminuindo tempo do processo: 112
+Processo 112 Terminou! 
+Colocando novo processo: 125
+Houve fragmentacao externa
+Executando processo: 126
+Pulando para proxima particao
+Diminuindo tempo do processo: 124
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 123
+Pulando para proxima particao
+Diminuindo tempo do processo: 111
+Processo 111 Terminou! 
+Colocando novo processo: 126
+Houve fragmentacao externa
+Executando processo: 127
+Pulando para proxima particao
+Diminuindo tempo do processo: 124
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 123
+Processo 123 Terminou! 
+Colocando novo processo: 127
+Houve fragmentacao externa
+Executando processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 124
+Processo 124 Terminou! 
+Colocando novo processo: 128
+Houve fragmentacao externa
+Executando processo: 129
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 127
+Pulando para proxima particao
+Diminuindo tempo do processo: 126
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 121
+Pulando para proxima particao
+Diminuindo tempo do processo: 120
+Processo 120 Terminou! 
+Colocando novo processo: 129
+Houve fragmentacao externa
+Executando processo: 130
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 127
+Pulando para proxima particao
+Diminuindo tempo do processo: 126
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Pulando para proxima particao
+Diminuindo tempo do processo: 121
+Pulando para proxima particao
+Diminuindo tempo do processo: 129
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 119
+Houve uma fragmentacao
+Executando processo: 131
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 127
+Pulando para proxima particao
+Diminuindo tempo do processo: 126
+Pulando para proxima particao
+Diminuindo tempo do processo: 117
+Processo 117 Terminou! 
+Colocando novo processo: 131
+Houve fragmentacao externa
+Executando processo: 132
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Pulando para proxima particao
+Diminuindo tempo do processo: 127
+Processo 127 Terminou! 
+Colocando novo processo: 132
+Houve fragmentacao externa
+Executando processo: 133
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 125
+Processo 125 Terminou! 
+Colocando novo processo: 133
+Houve fragmentacao externa
+Executando processo: 134
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 133
+Pulando para proxima particao
+Diminuindo tempo do processo: 132
+Pulando para proxima particao
+Diminuindo tempo do processo: 126
+Pulando para proxima particao
+Diminuindo tempo do processo: 131
+Pulando para proxima particao
+Diminuindo tempo do processo: 121
+Pulando para proxima particao
+Diminuindo tempo do processo: 129
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 119
+Houve uma fragmentacao
+Executando processo: 135
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 133
+Pulando para proxima particao
+Diminuindo tempo do processo: 132
+Pulando para proxima particao
+Diminuindo tempo do processo: 126
+Pulando para proxima particao
+Diminuindo tempo do processo: 131
+Pulando para proxima particao
+Diminuindo tempo do processo: 121
+Pulando para proxima particao
+Diminuindo tempo do processo: 129
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 119
+Houve uma fragmentacao
+Executando processo: 136
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Pulando para proxima particao
+Diminuindo tempo do processo: 133
+Pulando para proxima particao
+Diminuindo tempo do processo: 132
+Pulando para proxima particao
+Diminuindo tempo do processo: 126
+Processo 126 Terminou! 
+Colocando novo processo: 136
+Houve fragmentacao externa
+Executando processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 128
+Processo 128 Terminou! 
+Colocando novo processo: 137
+Houve fragmentacao externa
+Executando processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 133
+Pulando para proxima particao
+Diminuindo tempo do processo: 132
+Pulando para proxima particao
+Diminuindo tempo do processo: 136
+Pulando para proxima particao
+Diminuindo tempo do processo: 131
+Pulando para proxima particao
+Diminuindo tempo do processo: 121
+Processo 121 Terminou! 
+Colocando novo processo: 138
+Houve fragmentacao externa
+Executando processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 133
+Processo 133 Terminou! 
+Colocando novo processo: 139
+Houve fragmentacao externa
+Executando processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 132
+Processo 132 Terminou! 
+Colocando novo processo: 140
+Houve fragmentacao externa
+Executando processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 136
+Pulando para proxima particao
+Diminuindo tempo do processo: 131
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 129
+Processo 129 Terminou! 
+Colocando novo processo: 141
+Houve fragmentacao externa
+Executando processo: 142
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 136
+Pulando para proxima particao
+Diminuindo tempo do processo: 131
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 119
+Processo 119 Terminou! 
+Colocando novo processo: 142
+Houve fragmentacao externa
+Executando processo: 143
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 136
+Processo 136 Terminou! 
+Colocando novo processo: 143
+Houve fragmentacao externa
+Executando processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 143
+Pulando para proxima particao
+Diminuindo tempo do processo: 131
+Processo 131 Terminou! 
+Colocando novo processo: 144
+Houve fragmentacao externa
+Executando processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 137
+Processo 137 Terminou! 
+Colocando novo processo: 145
+Houve fragmentacao externa
+Executando processo: 146
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 143
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 147
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 143
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 143
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Pulando para proxima particao
+Diminuindo tempo do processo: 115
+Processo 115 Terminou! 
+Colocando novo processo: 148
+Houve fragmentacao externa
+Executando processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Pulando para proxima particao
+Diminuindo tempo do processo: 143
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 118
+Processo 118 Terminou! 
+Colocando novo processo: 149
+Houve fragmentacao externa
+Executando processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Pulando para proxima particao
+Diminuindo tempo do processo: 140
+Processo 140 Terminou! 
+Colocando novo processo: 150
+Houve fragmentacao externa
+Executando processo: 151
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 139
+Processo 139 Terminou! 
+Colocando novo processo: 151
+Houve fragmentacao externa
+Executando processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 151
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 143
+Processo 143 Terminou! 
+Colocando novo processo: 152
+Houve fragmentacao externa
+Executando processo: 153
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Pulando para proxima particao
+Diminuindo tempo do processo: 151
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 138
+Processo 138 Terminou! 
+Colocando novo processo: 153
+Houve fragmentacao externa
+Executando processo: 154
+Pulando para proxima particao
+Diminuindo tempo do processo: 145
+Processo 145 Terminou! 
+Colocando novo processo: 154
+Houve fragmentacao externa
+Executando processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 154
+Pulando para proxima particao
+Diminuindo tempo do processo: 151
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 153
+Processo 153 Terminou! 
+Colocando novo processo: 155
+Houve fragmentacao externa
+Executando processo: 156
+Pulando para proxima particao
+Diminuindo tempo do processo: 154
+Processo 154 Terminou! 
+Colocando novo processo: 156
+Houve fragmentacao externa
+Executando processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 156
+Processo 156 Terminou! 
+Colocando novo processo: 157
+Houve fragmentacao externa
+Executando processo: 158
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 151
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 159
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 151
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 160
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 151
+Processo 151 Terminou! 
+Colocando novo processo: 160
+Houve fragmentacao externa
+Executando processo: 161
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 160
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 144
+Processo 144 Terminou! 
+Colocando novo processo: 161
+Executando processo: 162
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 160
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 161
+Processo 161 Terminou! 
+Colocando novo processo: 162
+Houve fragmentacao externa
+Executando processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Pulando para proxima particao
+Diminuindo tempo do processo: 160
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 162
+Processo 162 Terminou! 
+Colocando novo processo: 163
+Houve fragmentacao externa
+Executando processo: 164
+Pulando para proxima particao
+Diminuindo tempo do processo: 157
+Processo 157 Terminou! 
+Colocando novo processo: 164
+Houve fragmentacao externa
+Executando processo: 165
+Pulando para proxima particao
+Diminuindo tempo do processo: 164
+Pulando para proxima particao
+Diminuindo tempo do processo: 160
+Pulando para proxima particao
+Diminuindo tempo do processo: 150
+Processo 150 Terminou! 
+Colocando novo processo: 165
+Houve fragmentacao externa
+Executando processo: 166
+Pulando para proxima particao
+Diminuindo tempo do processo: 164
+Pulando para proxima particao
+Diminuindo tempo do processo: 160
+Pulando para proxima particao
+Diminuindo tempo do processo: 165
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 167
+Pulando para proxima particao
+Diminuindo tempo do processo: 164
+Pulando para proxima particao
+Diminuindo tempo do processo: 160
+Processo 160 Terminou! 
+Colocando novo processo: 167
+Houve fragmentacao externa
+Executando processo: 168
+Pulando para proxima particao
+Diminuindo tempo do processo: 164
+Pulando para proxima particao
+Diminuindo tempo do processo: 167
+Pulando para proxima particao
+Diminuindo tempo do processo: 165
+Pulando para proxima particao
+Diminuindo tempo do processo: 152
+Processo 152 Terminou! 
+Colocando novo processo: 168
+Houve fragmentacao externa
+Executando processo: 169
+Pulando para proxima particao
+Diminuindo tempo do processo: 164
+Processo 164 Terminou! 
+Colocando novo processo: 169
+Houve fragmentacao externa
+Executando processo: 170
+Pulando para proxima particao
+Diminuindo tempo do processo: 169
+Pulando para proxima particao
+Diminuindo tempo do processo: 167
+Pulando para proxima particao
+Diminuindo tempo do processo: 165
+Pulando para proxima particao
+Diminuindo tempo do processo: 168
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 141
+Processo 141 Terminou! 
+Colocando novo processo: 170
+Houve fragmentacao externa
+Executando processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 169
+Pulando para proxima particao
+Diminuindo tempo do processo: 167
+Processo 167 Terminou! 
+Colocando novo processo: 171
+Houve fragmentacao externa
+Executando processo: 172
+Pulando para proxima particao
+Diminuindo tempo do processo: 169
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 165
+Pulando para proxima particao
+Diminuindo tempo do processo: 168
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 170
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 173
+Pulando para proxima particao
+Diminuindo tempo do processo: 169
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 165
+Processo 165 Terminou! 
+Colocando novo processo: 173
+Houve fragmentacao externa
+Executando processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 169
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 173
+Pulando para proxima particao
+Diminuindo tempo do processo: 168
+Processo 168 Terminou! 
+Colocando novo processo: 174
+Houve fragmentacao externa
+Executando processo: 175
+Pulando para proxima particao
+Diminuindo tempo do processo: 169
+Processo 169 Terminou! 
+Colocando novo processo: 175
+Houve fragmentacao externa
+Executando processo: 176
+Pulando para proxima particao
+Diminuindo tempo do processo: 175
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 173
+Processo 173 Terminou! 
+Colocando novo processo: 176
+Houve fragmentacao externa
+Executando processo: 177
+Pulando para proxima particao
+Diminuindo tempo do processo: 175
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 176
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 170
+Processo 170 Terminou! 
+Colocando novo processo: 177
+Houve fragmentacao externa
+Executando processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 175
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 176
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 177
+Processo 177 Terminou! 
+Colocando novo processo: 178
+Houve fragmentacao externa
+Executando processo: 179
+Pulando para proxima particao
+Diminuindo tempo do processo: 175
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Pulando para proxima particao
+Diminuindo tempo do processo: 176
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Houve uma fragmentacao
+Executando processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 175
+Processo 175 Terminou! 
+Colocando novo processo: 180
+Houve fragmentacao externa
+Executando processo: 181
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 171
+Processo 171 Terminou! 
+Colocando novo processo: 181
+Houve fragmentacao externa
+Executando processo: 182
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 181
+Pulando para proxima particao
+Diminuindo tempo do processo: 176
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 142
+Processo 142 Terminou! 
+Colocando novo processo: 182
+Houve fragmentacao externa
+Executando processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 181
+Pulando para proxima particao
+Diminuindo tempo do processo: 176
+Processo 176 Terminou! 
+Colocando novo processo: 183
+Houve fragmentacao externa
+Executando processo: 184
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 181
+Processo 181 Terminou! 
+Colocando novo processo: 184
+Houve fragmentacao externa
+Executando processo: 185
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 184
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Pulando para proxima particao
+Diminuindo tempo do processo: 155
+Processo 155 Terminou! 
+Colocando novo processo: 185
+Houve fragmentacao externa
+Executando processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Pulando para proxima particao
+Diminuindo tempo do processo: 184
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 163
+Processo 163 Terminou! 
+Colocando novo processo: 186
+Houve fragmentacao externa
+Executando processo: 187
+Pulando para proxima particao
+Diminuindo tempo do processo: 180
+Processo 180 Terminou! 
+Colocando novo processo: 187
+Houve fragmentacao externa
+Executando processo: 188
+Pulando para proxima particao
+Diminuindo tempo do processo: 187
+Pulando para proxima particao
+Diminuindo tempo do processo: 184
+Processo 184 Terminou! 
+Colocando novo processo: 188
+Houve fragmentacao externa
+Executando processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 187
+Pulando para proxima particao
+Diminuindo tempo do processo: 188
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 185
+Processo 185 Terminou! 
+Colocando novo processo: 189
+Houve fragmentacao externa
+Executando processo: 190
+Pulando para proxima particao
+Diminuindo tempo do processo: 187
+Pulando para proxima particao
+Diminuindo tempo do processo: 188
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 182
+Processo 182 Terminou! 
+Colocando novo processo: 190
+Houve fragmentacao externa
+Executando processo: 191
+Pulando para proxima particao
+Diminuindo tempo do processo: 187
+Pulando para proxima particao
+Diminuindo tempo do processo: 188
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 190
+Houve uma fragmentacao
+Executando processo: 192
+Pulando para proxima particao
+Diminuindo tempo do processo: 187
+Pulando para proxima particao
+Diminuindo tempo do processo: 188
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 174
+Processo 174 Terminou! 
+Colocando novo processo: 192
+Houve fragmentacao externa
+Executando processo: 193
+Pulando para proxima particao
+Diminuindo tempo do processo: 187
+Processo 187 Terminou! 
+Colocando novo processo: 193
+Houve fragmentacao externa
+Executando processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 193
+Processo 193 Terminou! 
+Colocando novo processo: 194
+Houve fragmentacao externa
+Executando processo: 195
+Pulando para proxima particao
+Diminuindo tempo do processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 188
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 192
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 190
+Houve uma fragmentacao
+Executando processo: 196
+Pulando para proxima particao
+Diminuindo tempo do processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 188
+Processo 188 Terminou! 
+Colocando novo processo: 196
+Houve fragmentacao externa
+Executando processo: 197
+Pulando para proxima particao
+Diminuindo tempo do processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 196
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 192
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 149
+Processo 149 Terminou! 
+Colocando novo processo: 197
+Houve fragmentacao externa
+Executando processo: 198
+Pulando para proxima particao
+Diminuindo tempo do processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 196
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Pulando para proxima particao
+Diminuindo tempo do processo: 192
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Pulando para proxima particao
+Diminuindo tempo do processo: 197
+Pulando para proxima particao
+Diminuindo tempo do processo: 148
+Pulando para proxima particao
+Diminuindo tempo do processo: 190
+Processo 190 Terminou! 
+Colocando novo processo: 198
+Houve fragmentacao externa
+Executando processo: 199
+Pulando para proxima particao
+Diminuindo tempo do processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 196
+Pulando para proxima particao
+Diminuindo tempo do processo: 183
+Processo 183 Terminou! 
+Colocando novo processo: 199
+Houve fragmentacao externa
+Executando processo: 200
+Pulando para proxima particao
+Diminuindo tempo do processo: 194
+Pulando para proxima particao
+Diminuindo tempo do processo: 196
+Pulando para proxima particao
+Diminuindo tempo do processo: 199
+Pulando para proxima particao
+Diminuindo tempo do processo: 192
+Pulando para proxima particao
+Diminuindo tempo do processo: 186
+Pulando para proxima particao
+Diminuindo tempo do processo: 189
+Pulando para proxima particao
+Diminuindo tempo do processo: 178
+Processo 178 Terminou! 
+Colocando novo processo: 200
+Houve fragmentacao externa
+
+
+
+
+Execução Finalizada
+Tempo Execução: 210
+Fragmentação interna: 169
+Média de execução: 1
+Processos executados: 170
+Processos descartados: 30
